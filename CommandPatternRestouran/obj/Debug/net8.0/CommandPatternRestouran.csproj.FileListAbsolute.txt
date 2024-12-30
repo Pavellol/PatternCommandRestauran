@@ -1,0 +1,14 @@
+C:\programming\CommandPatternRestouran\CommandPatternRestouran\obj\Debug\net8.0\CommandPatternRestouran.GeneratedMSBuildEditorConfig.editorconfig
+C:\programming\CommandPatternRestouran\CommandPatternRestouran\obj\Debug\net8.0\CommandPatternRestouran.AssemblyInfoInputs.cache
+C:\programming\CommandPatternRestouran\CommandPatternRestouran\obj\Debug\net8.0\CommandPatternRestouran.AssemblyInfo.cs
+C:\programming\CommandPatternRestouran\CommandPatternRestouran\obj\Debug\net8.0\CommandPatternRestouran.csproj.CoreCompileInputs.cache
+C:\programming\CommandPatternRestouran\CommandPatternRestouran\bin\Debug\net8.0\CommandPatternRestouran.exe
+C:\programming\CommandPatternRestouran\CommandPatternRestouran\bin\Debug\net8.0\CommandPatternRestouran.deps.json
+C:\programming\CommandPatternRestouran\CommandPatternRestouran\bin\Debug\net8.0\CommandPatternRestouran.runtimeconfig.json
+C:\programming\CommandPatternRestouran\CommandPatternRestouran\bin\Debug\net8.0\CommandPatternRestouran.dll
+C:\programming\CommandPatternRestouran\CommandPatternRestouran\bin\Debug\net8.0\CommandPatternRestouran.pdb
+C:\programming\CommandPatternRestouran\CommandPatternRestouran\obj\Debug\net8.0\CommandPatternRestouran.dll
+C:\programming\CommandPatternRestouran\CommandPatternRestouran\obj\Debug\net8.0\refint\CommandPatternRestouran.dll
+C:\programming\CommandPatternRestouran\CommandPatternRestouran\obj\Debug\net8.0\CommandPatternRestouran.pdb
+C:\programming\CommandPatternRestouran\CommandPatternRestouran\obj\Debug\net8.0\CommandPatternRestouran.genruntimeconfig.cache
+C:\programming\CommandPatternRestouran\CommandPatternRestouran\obj\Debug\net8.0\ref\CommandPatternRestouran.dll
